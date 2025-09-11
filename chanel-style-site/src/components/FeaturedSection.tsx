@@ -40,6 +40,7 @@ const FeaturedSection: React.FC = () => {
         schedule: '毎年9月23日・24日',
         location: 'いすみ市大原海水浴場など',
         highlights: '十数基の神輿が海に担ぎ込まれ、波の中で激しくもみ合う「汐ふみ」が祭りのハイライト。男たちの勇壮な姿に圧倒される。',
+        link: 'https://trip.iko-yo.net/events/5919',
       },
     },
   ];
@@ -75,6 +76,9 @@ const FeaturedSection: React.FC = () => {
             <p><strong>開催時期:</strong> {selectedFestival.details.schedule}</p>
             <p><strong>場所:</strong> {selectedFestival.details.location}</p>
             <p><strong>見どころ:</strong> {selectedFestival.details.highlights}</p>
+            {selectedFestival.details.link && (
+              <p><strong>詳細情報:</strong> <a href={selectedFestival.details.link} target="_blank" rel="noopener noreferrer">{selectedFestival.details.link}</a></p>
+            )}
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose}>
