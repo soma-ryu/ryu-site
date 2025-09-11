@@ -35,7 +35,7 @@ const FeaturedSection: React.FC = () => {
     {
       name: '大原はだか祭り',
       description: '海の男たちが神輿を担いで海の中を渡御する、勇壮な祭りです。',
-      imageUrl: 'https://placehold.co/600x400/000000/FFFFFF?text=大原はだか祭り',
+      imageUrl: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ed/fd/35/men-carrying-a-sacred.jpg?w=1200&h=-1&s=1',
       details: {
         schedule: '毎年9月23日・24日',
         location: 'いすみ市大原海水浴場など',

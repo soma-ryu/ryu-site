@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ryu-site/static/css/main.7ebfbd1d.css",
-    "main.js": "/ryu-site/static/js/main.42de06b7.js",
+    "main.js": "/ryu-site/static/js/main.ea5325e0.js",
     "index.html": "/ryu-site/index.html",
     "main.7ebfbd1d.css.map": "/ryu-site/static/css/main.7ebfbd1d.css.map",
-    "main.42de06b7.js.map": "/ryu-site/static/js/main.42de06b7.js.map"
+    "main.ea5325e0.js.map": "/ryu-site/static/js/main.ea5325e0.js.map"
   },
   "entrypoints": [
     "static/css/main.7ebfbd1d.css",
-    "static/js/main.42de06b7.js"
+    "static/js/main.ea5325e0.js"
   ]
 }
