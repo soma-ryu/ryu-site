@@ -20,6 +20,7 @@ const FeaturedSection: React.FC = () => {
         schedule: '7月(夏祭り)と10月(秋祭り)',
         location: '香取市佐原市街地',
         highlights: '日本三大囃子「佐原囃子」の音色に合わせて、小江戸と呼ばれる町並みの中を重厚な彫刻の山車が曳き廻される。ユネスコ無形文化遺産にも登録されている。',
+        link: 'http://www.city.katori.lg.jp/sightseeing/matsuri/',
       },
     },
     {
@@ -30,6 +31,7 @@ const FeaturedSection: React.FC = () => {
         schedule: '毎年7月上旬の金・土・日曜日',
         location: '成田山新勝寺およびその周辺',
         highlights: '豪華絢爛な10台の山車と御輿が表参道を巡行する。最終日には、急な坂を一気に駆け上がる「総引き」が見どころ。',
+        link: 'http://www.nrtk.jp/enjoy/shikisaisai/gion-festival.html',
       },
     },
     {
