@@ -1,0 +1,10 @@
+# Temp directories
+download-ripgrepZtwBF7/
+
+# Source code
+new-brand-site/
+
+# IDE / System
+.vscode/
+node_modules/
+dist/
